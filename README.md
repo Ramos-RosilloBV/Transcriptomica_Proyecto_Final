@@ -34,11 +34,16 @@ El análisis incluyó control de calidad, normalización, integración de muestr
 Los resultados permitieron identificar doce poblaciones celulares principales, incluyendo células endoteliales, fibroblastos, macrófagos, linfocitos T y B, células musculares lisas, colonocitos maduros y células madre. Asimismo, se detectaron cambios en la composición celular y en los perfiles de expresión génica asociados a los estados inflamatorios agudos y crónicos, proporcionando una visión integral de las alteraciones transcriptómicas presentes durante la progresión de la inflamación intestinal.
 
 ---
+## Reporte renderizado
+
+Se puede acceder en esta liga https://ramos-rosillobv.github.io/Transcriptomica_Proyecto_Final/
+
+---
 
 ## Datos del proyecto
 
 Los objetos Seurat utilizados en este análisis son demasiado grandes para almacenarse directamente en GitHub.  
-Puedes acceder a todos los archivos `.rds` en la siguiente carpeta de Google Drive. En ese mismo link se encuentra el reporte renderizado.
+Puedes acceder a todos los archivos `.rds` en la siguiente carpeta de Google Drive.
 
 https://drive.google.com/drive/folders/1oDNIz-TUGk8oxrn56PHhsfO_PRVfujhg?usp=sharing
 
