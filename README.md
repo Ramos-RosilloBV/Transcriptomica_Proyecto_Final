@@ -35,22 +35,10 @@ Los resultados permitieron identificar doce poblaciones celulares principales, i
 
 ---
 
-# Reporte renderizado
-
-El reporte completo puede consultarse en:
-
-**[Agregar aquí la URL de GitHub Pages]**
-
-Ejemplo:
-
-https://usuario.github.io/Proyecto_scRNAseq/
-
----
-
 ## Datos del proyecto
 
 Los objetos Seurat utilizados en este análisis son demasiado grandes para almacenarse directamente en GitHub.  
-Puedes acceder a todos los archivos `.rds` en la siguiente carpeta de Google Drive.
+Puedes acceder a todos los archivos `.rds` en la siguiente carpeta de Google Drive. En ese mismo link se encuentra el reporte renderizado.
 
 https://drive.google.com/drive/folders/1oDNIz-TUGk8oxrn56PHhsfO_PRVfujhg?usp=sharing
 
