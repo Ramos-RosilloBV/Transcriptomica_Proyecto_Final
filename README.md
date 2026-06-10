@@ -47,6 +47,24 @@ https://usuario.github.io/Proyecto_scRNAseq/
 
 ---
 
+## Datos del proyecto
+
+Los objetos Seurat utilizados en este análisis son demasiado grandes para almacenarse directamente en GitHub.  
+Puedes acceder a todos los archivos `.rds` en la siguiente carpeta de Google Drive.
+
+https://drive.google.com/drive/folders/1oDNIz-TUGk8oxrn56PHhsfO_PRVfujhg?usp=sharing
+
+---
+
+### Archivos incluidos:
+- colon_annotated.rds  
+- colon_annotated_v2F.rds  
+- colon_integrated.rds  
+- colon_scRNA_seurat_raw.rds  
+- combined_seurat.rds
+- También se encuentran los archivos CSV, Rmd y html
+
+
 # Explicación detallada de los pasos y scripts
 
 ## Parte 1. Control de calidad y normalización
